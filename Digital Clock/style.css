@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(./Digital\ Clock\ Background\ Image.jpg);
+}
+
+#clock {
+    font-size: 100px;
+    width: 550px;
+    margin: 150px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-image: url(./clock\ image.jpg);
+    background-position: center;
+    color: aliceblue;
+}
